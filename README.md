@@ -14,9 +14,10 @@ You should see the app running at `http://localhost:4200/`. To ensure Tailwind C
 
 > If you get stuck with install, DM on [twitter](https://twitter.com/AlyssaNicoll) I will help you get going beforehand!
 
-Before
+### Before
+![image](https://user-images.githubusercontent.com/1058831/185500369-64f7c6c7-15ca-4208-a94d-ae662c48a2a4.png)
 
-After our excersise
+### After Our Exercise
 ![image](https://user-images.githubusercontent.com/1058831/185470229-8a831bdc-ea79-4ab9-9a8e-7740dbf355ff.png)
 
 
