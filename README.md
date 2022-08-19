@@ -20,6 +20,11 @@ You should see the app running at `http://localhost:4200/`. To ensure Tailwind C
 ### After Our Exercise
 ![image](https://user-images.githubusercontent.com/1058831/185470229-8a831bdc-ea79-4ab9-9a8e-7740dbf355ff.png)
 
+# VS Code Tailwind CSS Extension
+I highly recommed using Visual Studio Code as your editor (just for development in general) and [downloading the Tailwind CSS Extension](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss). This will give you suggestions for classes (so helpful) and even show you what is being generated for each Tailwind CSS Class on hover:
+![image](https://user-images.githubusercontent.com/1058831/185662263-72cf1784-f211-471c-9ebc-9e5dfbe1a030.png)
+![image](https://user-images.githubusercontent.com/1058831/185662519-5c97e736-3ab9-476d-b250-3c7076e6e824.png)
+
 
 ## Development server
 
